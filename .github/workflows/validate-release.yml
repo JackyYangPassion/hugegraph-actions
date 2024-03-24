@@ -8,7 +8,7 @@ on:
         default: '1.3.0'
       gpg_user:
         required: true
-        default: 'JackyYang'
+        default: 'imbajin'
 
   push:
     branches:
